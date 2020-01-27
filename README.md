@@ -6,7 +6,7 @@ The application works by entering the desired Origin and Destination station, Da
 The payment options are to be entered by the user for security reasons. Although this process can also be automated in the future.
 
 Running the application
-To run the application the system will require python installed. Pyhton can be downloaded from :-
+To run the application the system will require python installed. Python can be downloaded from :-
 
 https://www.python.org/downloads/
 
